@@ -8,7 +8,7 @@ body{
 	background-image: url(6687i.jpg);
 	background-color: white;
 	background-repeat: no-repeat;
-	background-attachment=fixed;
+	background-attachment=scroll;
 	background-position: center;
 }
 
