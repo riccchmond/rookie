@@ -1,0 +1,50 @@
+h1 {
+	color: red;
+	font-size: 40px;
+	position: center;
+}
+
+body{
+	background-image: url(6687i.jpg);
+	background-color: white;
+	background-repeat: no-repeat;
+	background-attachment=fixed;
+	background-position: center;
+}
+
+hr{
+	colour: lime;
+	background-color: lime;
+	height: 2px; 
+	width: 100%;
+}
+
+.hr2{
+	colour: aqua; 
+	background-color: aqua;
+	height: 2px;
+	width:100%;
+}
+
+ol{
+	list-style-type: decimal-leading-zero;
+} 
+
+ul {
+	list-style-type: square;
+	color: purple;
+}
+
+/* when defining the state of a hyper link use the following order:
+-link
+-visited
+-focus
+-hover
+-active	*/
+
+a:link {color: blue}
+a:visited {color: magenta}
+a:focus {color: lime}
+a:hover {color: red; font-style: bold; font-size: 25px}
+
+
